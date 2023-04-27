@@ -1,7 +1,7 @@
 role        = "unit-test-storageacount"
   client_name = "voyager"
   owner       = "systemsengineering@vca.com"
-  creator     = "systemsengineering@vca.com"
+  creator     = "systemsengineering@vca"
   tags = 
   }
 }
